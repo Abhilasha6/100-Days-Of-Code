@@ -4,7 +4,8 @@ public class LongestCommonPrefix {
             String lcp="";
             char k;
             int n=strs.length;
-            //we need to find the minimum length element in the array
+
+            //we need to find the minimum length element in the array so that we can compare all its characters to chacaters of other elements in the array
             int min = strs[0].length();
             for (int i = 1; i < n; i++)
             {
