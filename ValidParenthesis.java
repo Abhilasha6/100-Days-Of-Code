@@ -1,4 +1,5 @@
-    class Solution{
+import java.util.Stack;
+class Solution{
     public boolean validParentheses(String s) {
         Stack<Character> stack = new Stack<>();
         char[] arr = s.toCharArray();
