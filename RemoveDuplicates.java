@@ -19,8 +19,7 @@ public class RemoveDuplicates {
                 else{
                     nums[j]=nums[i];
                     j++;
-                }
-                    
+                }      
             }
             return j;
         }
