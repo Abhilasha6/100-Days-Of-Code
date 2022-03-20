@@ -3,7 +3,7 @@ public class LengthOfLastWord {
         s=s.trim();
         // String st="";
         int llw=0;
-        int k= s.lastIndexOf(" ");
+        // int k= s.lastIndexOf(" ");
         for(int i=s.length()-1; i>=0;i--)
         {
             // st=st+s.charAt(i);
