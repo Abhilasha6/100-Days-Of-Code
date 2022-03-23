@@ -1,7 +1,7 @@
 public class AddBinary {
         public String addBinary(String a, String b) {
             int carry=0,sum=0;
-            int lda,ldb;
+            // int lda,ldb;
             // String s="";
             int i=a.length()-1, j=b.length()-1;
             StringBuilder s=new StringBuilder();
