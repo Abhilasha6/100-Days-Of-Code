@@ -1,4 +1,4 @@
-public class Sqrt() {
+public class Sqrt {
     class Solution {
         public int mySqrt(int x) {
             // double root=-1,i=0,j=x,k;
