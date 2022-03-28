@@ -1,3 +1,4 @@
+//day 18
 public class ContainsDuplicate {
     class Solution {
         public boolean containsDuplicate(int[] nums) {
