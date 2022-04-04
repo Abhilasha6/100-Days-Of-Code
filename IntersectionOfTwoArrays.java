@@ -35,11 +35,11 @@ public class IntersectionOfTwoArrays {
               // if(k==1) return arr;
               // if(i<k-1 && arr[i]==arr[i+1])
               //       continue;
-              else
-              {
+            //   else
+            //   {
                   res[i]=arr[i]; 
                   // x++;
-              }
+            //   }
             }
                
             return res;
