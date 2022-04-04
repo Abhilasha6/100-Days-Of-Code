@@ -10,7 +10,7 @@ public class IntersectionOfTwoArrays2 {
                     if(nums1[i]==nums2[j])
                     {
                              arr[k++]=nums1[i];
-                             nums2[j]=1001; // by changing the value of the untersected element we can avoid duplicate comparisions with nums1 array
+                             nums2[j]=1001; // by changing the value of the intersected element we can avoid duplicate comparisions with nums1 array
                              break;
                     }
                 }     
