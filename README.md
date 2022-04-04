@@ -24,4 +24,4 @@ DAY 8: i) IMPLEMENT strStr()
 <br>
 DAY 9: i) SINGLE NUMBER
 <br>
-<p>&emsp ii)POWER OF THREE
+ii)POWER OF THREE
