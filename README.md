@@ -25,3 +25,6 @@ DAY 8: i) IMPLEMENT strStr()
 DAY 9: i) SINGLE NUMBER
 <br>
 ii)POWER OF THREE
+<br>
+DAY 10: LENGTH OF LAST WORD
+<br>
