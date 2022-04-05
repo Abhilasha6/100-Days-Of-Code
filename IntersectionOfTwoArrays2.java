@@ -1,3 +1,4 @@
+//day 24
 public class IntersectionOfTwoArrays2 {
      public int[] intersect(int[] nums1, int[] nums2) {
             int k=0;     //k=length of intersected array
