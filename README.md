@@ -36,3 +36,7 @@ DAY 12: PLUS ONE
 <br>
 DAY 13: ADD BINARY
 <br>
+DAY 14: Sqrt(x)
+<br>
+DAY 15: Valid Palindrome
+<br>
