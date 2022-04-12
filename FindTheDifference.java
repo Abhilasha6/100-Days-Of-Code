@@ -1,7 +1,9 @@
+//day 32
+
 public class FindTheDifference {
         public char findTheDifference(String s, String t) {
-            if(s==null)
-                return t.charAt(0);
+            // if(s==null)
+            //     return t.charAt(0);
             for(int i=0;i<t.length();i++)
             {
                 if(s.contains(Character.toString(t.charAt(i))))
