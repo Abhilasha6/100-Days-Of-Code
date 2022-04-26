@@ -1,6 +1,6 @@
 //day 44
 
-public class ReverseWordsInString {
+public class ReverseWordsInString3 {
     public String reverseWords(String s) {
         //Strings in java are immutable, so I have to work with StringBuilder
         String[] words = s.split(" ");
