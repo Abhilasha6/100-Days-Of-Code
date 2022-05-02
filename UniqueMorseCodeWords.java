@@ -1,4 +1,4 @@
-//day 51
+//day 51 Q1
 
 public class UniqueMorseCodeWords {
     // public int uniqueMorseRepresentations(String[] words) {
