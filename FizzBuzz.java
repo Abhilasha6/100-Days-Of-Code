@@ -10,7 +10,7 @@ public class FizzBuzz {
                 else if(i%5==0)
                     fizzBuzz.add("Buzz");
                 else
-                    fizzBuzz.add(Character.toString(i));
+                    fizzBuzz.add(Integer.toString(i));
             }
             return fizzBuzz;
         }
