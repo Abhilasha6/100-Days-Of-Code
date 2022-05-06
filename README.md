@@ -40,3 +40,9 @@ DAY 14: Sqrt(x)
 <br>
 DAY 15: Valid Palindrome
 <br>
+DAY 16: Majority Element
+<br>
+DAY 17: Reverse Bits
+<br>
+DAY 18: Contains Duplicate
+<br>
