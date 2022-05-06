@@ -46,3 +46,5 @@ DAY 17: Reverse Bits
 <br>
 DAY 18: Contains Duplicate
 <br>
+DAY 19: Missing Number
+<br>
