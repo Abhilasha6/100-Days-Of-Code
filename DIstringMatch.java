@@ -1,3 +1,5 @@
+//day 59 q1
+
 public class DIstringMatch {
         public int[] diStringMatch(String s) {
             // int[] perm=new int[s.length()];
