@@ -1,6 +1,6 @@
 //day 63
 
-public class SortingTheSequence {
+public class SortingTheSentence {
         public String sortSentence(String s) {
             s+=" "; int j=1; 
             String word[]=s.split(" ");
