@@ -56,3 +56,7 @@ DAY 22: Third Maximum Number
 <br>
 DAY 23: Intersection of two arrays
 <br>
+DAY 24: Intersection of two arrays 2
+<br>
+DAY 25: Assign Cookies
+<br>
