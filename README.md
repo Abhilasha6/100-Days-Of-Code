@@ -50,3 +50,9 @@ DAY 19: Missing Number
 <br>
 DAY 20: Contains Duplicate 2
 <br>
+DAY 21: Move Zeroes
+<br>
+DAY 22: Third Maximum Number
+<br>
+DAY 23: Intersection of two arrays
+<br>
