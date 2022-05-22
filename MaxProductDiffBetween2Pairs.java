@@ -3,11 +3,11 @@
 public class MaxProductDiffBetween2Pairs {
     public int maxProductDifference(int[] nums) {
 
-        // Approach 1
+        // Approach 1 TC:O(nlogn)
         Arrays.sort(nums);
         return (nums[nums.length - 1] * nums[nums.length - 2] - nums[0] * nums[1]);
 
-        // Approach 2
+        // Approach 2 TC:O(n)
         int max1 = Integer.MIN_VALUE;
         int max2 = Integer.MIN_VALUE;
 
