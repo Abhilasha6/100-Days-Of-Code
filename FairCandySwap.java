@@ -1,3 +1,6 @@
+//day 72
+//review again ... medium diff
+
 public class FairCandySwap {
         public int[] fairCandySwap(int[] A, int[] B) {
              int sa = 0, sb = 0;  
