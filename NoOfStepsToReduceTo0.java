@@ -1,3 +1,5 @@
+//day 76
+
 public class NoOfStepsToReduceTo0 {
     public int numberOfSteps (int num) {
         if(num == 0) {
