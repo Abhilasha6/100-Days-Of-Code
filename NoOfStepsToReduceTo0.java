@@ -2,7 +2,7 @@
 
 public class NoOfStepsToReduceTo0 {
     public int numberOfSteps(int num) {
-        // iteratve approach
+        // iterative approach
         int count = 0; // count of steps
         while (num != 0) { // while num is not 0
             if (num % 2 != 0) // if num is odd
